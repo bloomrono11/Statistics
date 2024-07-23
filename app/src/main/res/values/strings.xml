@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Statistics</string>
+    <string name="heading">Calculate</string>
+    <string name="subheading">Sum, Average, Mode</string>
+    <string name="formula">Formula</string>
+    <string name="number_1">number 1</string>
+    <string name="number_2">number 2</string>
+    <string name="number_3">number 3</string>
+    <string name="number_4">number 4</string>
+    <string name="number_5">number 5</string>
+    <string name="number_6">number 6</string>
+    <string name="number_7">number 7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stat_frag">Stat Frag</string>
+</resources>
